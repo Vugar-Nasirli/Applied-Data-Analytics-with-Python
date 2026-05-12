@@ -1,0 +1,28 @@
+# 📊 Raw data
+/data/raw/
+/data/tmp/
+/data/intermediate/
+/exports/
+dataset/
+
+# 🔐 Secrets
+.env
+.env.*
+*.key
+*.pem
+
+# 💻 System files
+.DS_Store
+Thumbs.db
+
+# 📂 Logs and temp files
+logs/
+tmp/
+*.log
+*.ipynb_checkpoints
+
+# ⚙️ Tooling (dbt, VS Code, venvs, etc.)
+target/
+.idea/
+.vscode/
+__pycache__/
