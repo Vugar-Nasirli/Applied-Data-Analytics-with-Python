@@ -69,13 +69,13 @@ Yeni tikililərdə həm sahə, həm də qiymət kənarlaşmaları köhnə tikili
 ### **Sahə və Qiymət Asılılığı**
 Sahə və qiymət arasında güclü müsbət asılılıq (PCC = 0.82) var. Outlier-lər təmizləndikdə bu asılılıq daha stabil görünür.
 
-![Scatter Plot Title Deed](./img/output_48_0.png)
+![Scatter Plot Title Deed](./img/output_96_0.png)
 *Şəkil: Outlier-lər silindikdən sonra sənədli və sənədsiz evlərin sahə/qiymət uyğunluğu.*
 
 **İnteraktiv Slope (Meyllilik) Analizi:**
 Sahə və qiymət arasındakı asılılıq kəskinliyini (slope) bu vizualda izləmək mümkündür.
 
-![Slope Interactive Gif](./img/Recording%202026-06-05%185808.gif)
+![Slope Interactive Gif](./img/Recording%202026-06-05%20185808.gif)
 *GIF: Sahə və qiymət asılılığındakı kəskinlik dərəcəsi.*
 
 ### **Korrelasiya Matrisi**
