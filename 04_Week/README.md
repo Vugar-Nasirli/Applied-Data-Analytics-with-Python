@@ -75,7 +75,7 @@ Sahə və qiymət arasında güclü müsbət asılılıq (PCC = 0.82) var. Outli
 **İnteraktiv Slope (Meyllilik) Analizi:**
 Sahə və qiymət arasındakı asılılıq kəskinliyini (slope) bu vizualda izləmək mümkündür.
 
-![Slope Interactive Gif](./img/Recording%202026-06-05%20174849.gif)
+![Slope Interactive Gif](./img/Recording%202026-06-05%185808.gif)
 *GIF: Sahə və qiymət asılılığındakı kəskinlik dərəcəsi.*
 
 ### **Korrelasiya Matrisi**
